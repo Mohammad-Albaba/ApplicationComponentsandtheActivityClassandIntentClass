@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application Components and the Activity Class and Intent Class</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="how_are_you">how are you ?</string>
+    <string name="tittle">tittle</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Phone_Number">Phone Number</string>
+</resources>
